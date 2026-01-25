@@ -1,0 +1,7 @@
+{
+  "minRequiredVersion": "1.0.0",
+  "storeUrls": {
+    "ios": "https://apps.apple.com/us/app/nexgrow/xxx",
+    "android": "https://play.google.com/store/apps/details?id=com.threenex.xxx"
+  }
+}
