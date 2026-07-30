@@ -1,0 +1,7 @@
+{
+  "minRequiredVersion": "1.0.0",
+  "storeUrls": {
+    "ios": "https://apps.apple.com/us/app/idREPLACE_WITH_APP_STORE_CONNECT_APP_ID",
+    "android": "https://play.google.com/store/apps/details?id=com.threenex.nexgrowcheckin"
+  }
+}
